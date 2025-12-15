@@ -1,5 +1,10 @@
 # CRUD Application - Contact Management
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+Simple CRUD (Create, Read, Update, Delete) application built with PHP and MySQL.# CRUD Application - Contact Management
+
 Simple CRUD (Create, Read, Update, Delete) application built with PHP and MySQL.
 
 ## Screenshots

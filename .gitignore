@@ -1,0 +1,14 @@
+
+config.php
+
+# Ignore backup files
+*.bak
+*.tmp
+*~
+*.swp
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log

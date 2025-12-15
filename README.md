@@ -3,6 +3,11 @@
 Simple CRUD (Create, Read, Update, Delete) application built with PHP and MySQL.
 
 ## Features
+## Screenshots
+
+![Application Interface](screenshots/screenshot.png)
+
+*Screenshot of the CRUD application interface*
 
 - ✅ Add new contact
 - ✅ View all contacts
